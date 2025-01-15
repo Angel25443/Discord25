@@ -1,4 +1,5 @@
 # 📗 Discord25 V 1.0.0
+*- Plugin permettant de donner le discord du serveur !*
 # :pushpin: Fonctionnalité
 *- Montre le serveur discord du serveur grâce à la commande /discord* 
 # 🛠️ Installation
