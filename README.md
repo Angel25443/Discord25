@@ -1,6 +1,6 @@
 # 📗 Discord25 V 1.0.0
 # :pushpin: Fonctionnalité
-*- Envoie un message lors de la connexion d'un joueur avec ses informations nom,prénom etc..* 
+*- Montre le serveur discord du serveur grâce à la commande /discord* 
 # 🛠️ Installation
 *1 - Télécharger le Discord25.dll*
 
