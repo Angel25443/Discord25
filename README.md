@@ -6,4 +6,4 @@
 
 *2 - Mettre le fichier dans le dossier plugin de votre serveur*
 
-*3 - Lancer votre serveur et bon jeux avec Connect25 !*
+*3 - Lancer votre serveur et bon jeux avec Discord25 !*
